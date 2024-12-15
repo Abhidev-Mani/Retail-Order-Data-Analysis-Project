@@ -35,6 +35,6 @@ In **Part 2**, the data is imported into a relational database (SQL), where SQL 
 **Outcome**: A well-documented and interactive analysis that provides actionable insights for sales optimization.
 
 ## Files in this Repository:
-- **PART 1**: `data_preprocessing.ipynb` - The Jupyter notebook containing the code for data retrieval, cleaning, and preprocessing.
-- **PART 2**: `data_analysis.py` - The Python script that contains SQL queries and visualizations to analyze the cleaned data.
+- **PART 1**: `retail_order.ipynb` - The Jupyter notebook containing the code for data retrieval, cleaning, and preprocessing.
+- **PART 2**: `retail_order_analysis.py` - The Python script that contains SQL queries and visualizations to analyze the cleaned data.
 
