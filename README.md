@@ -41,6 +41,6 @@ In **Part 2**, the data is imported into a relational database (SQL), where SQL 
 
 ### Overview of the webpage
 Home page : ![image](https://github.com/user-attachments/assets/76ffee15-14b3-4940-a34c-a0e4084bd52b)
-Nect Page : ![image](https://github.com/user-attachments/assets/96bb6010-7dd3-47b4-84ea-faecfc832984)
+Next Page : ![image](https://github.com/user-attachments/assets/96bb6010-7dd3-47b4-84ea-faecfc832984)
 
 
