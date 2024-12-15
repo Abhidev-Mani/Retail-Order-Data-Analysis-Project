@@ -38,3 +38,9 @@ In **Part 2**, the data is imported into a relational database (SQL), where SQL 
 - **PART 1**: `retail_order.ipynb` - The Jupyter notebook containing the code for data retrieval, cleaning, and preprocessing.
 - **PART 2**: `retail_order_analysis.py` - The Python script that contains SQL queries and visualizations to analyze the cleaned data.
 
+
+### Overview of the webpage
+Home page : ![image](https://github.com/user-attachments/assets/76ffee15-14b3-4940-a34c-a0e4084bd52b)
+Nect Page : ![image](https://github.com/user-attachments/assets/96bb6010-7dd3-47b4-84ea-faecfc832984)
+
+
